@@ -1,0 +1,38 @@
+.slider h3,
+.slider h5,
+.clients h3{
+	text-shadow: 3px 3px 5px rgba(0,0,6,0.5);
+
+}
+
+.parallax-container{
+	height: 20%;
+}
+
+.parallax img{
+	filter: grayscale(3);
+	opacity: 0.5 !important;
+}
+
+.clients img{
+	max-width: 150px
+	filter: drop-shadow(1px 1px 1px rgba:0,0,0,0.5);
+
+}
+
+section,footer{
+	padding: 20px 0;
+	
+}
+
+.logo1{
+	width: 65px;
+	filter: grayscale(0)
+
+}
+.brand-logo{
+	margin-top: -2px
+
+	
+
+}
